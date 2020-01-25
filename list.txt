@@ -138,7 +138,7 @@ TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 公视,vjms://58.215.133.185:8500:3502/live/cid=236#vjms://121.14.222.75:8500:3502/live/cid=236#vjms://23.237.33.155:8500:3502/live/cid=236
 民视,vjms://58.215.133.185:8500:3502/live/cid=450#,vjms://121.14.222.75:8500:3502/live/cid=450#vjms://23.237.33.155:8500:3502/live/cid=450
 华视,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
-中视,vjms://121.14.222.75:8500:3502/live/cid=452#http://pili-live-hdl.qhmywl.com/dsdtv/318e4839a23f9ff15e327de9bcb31687.flv#vjms://23.237.33.155:8500:3502/live/cid=452
+中视,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 台视,vjms://121.14.222.75:8500:3502/live/cid=453#vjms://23.237.33.155:8500:3502/live/cid=453
 三立都会,vjms://58.215.133.185:8500:3502/live/cid=226#vjms://121.14.222.75:8500:3502/live/cid=226#vjms://23.237.33.155:8500:3502/live/cid=226
 三立台湾,vjms://121.14.222.75:8500:3502/live/cid=437#http://pili-live-hdl.qhmywl.com/dsdtv/e71635b53bb874a085b2a469802bbc81.flv#p8p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts#vjms://23.237.33.155:8500:3502/live/cid=437
@@ -148,7 +148,7 @@ TVBS精采台,p8p://0198.02686.cc:16871/5d1a69ab0004fab811bdba5fa309b278.ts
 国兴卫视,vjms://121.14.222.75:8500:3502/live/cid=424#vjms://23.237.33.155:8500:3502/live/cid=424
 JET综合,p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 三立综合台,p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
-中天综合,vjms://121.14.222.75:8500:3502/live/cid=341#vjms://23.237.33.155:8500:3502/live/cid=341
+中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 壹综合,p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
 东森综合,vjms://23.237.33.155:8500:3502/live/cid=333
 霹雳台湾台,http://pili-live-hdl.qhmywl.com/dsdtv/14b736ee363e84918a8c43c69691faaa.flv
@@ -251,5 +251,4 @@ NewTV健康有约,http://39.135.36.155:18890/000000001000/7820874641606664941/1.
 NewTV精品体育,http://39.135.36.157:18890/000000001000/6460382139625130259/1.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6460382139625130259&owchid=ystenlive&owsid=1106497909461751360&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7bXyHXx9pcAUwTaLb5AbAmkHYZnpwVd9P8mvmphlj1JalYdRW8FBsCqY%2f8wxvQntk%2bssuunsLwIBwjlBeIJxeC
 NewTV潮妈辣婆,http://39.135.36.147:18890/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6516734029835465177&owchid=ystenlive&owsid=1106497909461757416&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7lpjlDkCigeV92%2fGgzDbl17YJnmK%2bNapvzR3hZbQitGUDQ%2f2RfKI5ienTpN%2bdmcS6qzJsR4R%2fYKs50I6pDfn83
 NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000000515&owchid=ystenlive&owsid=1106497909461764488&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRNwKLc81VtMnWmF2ZM43fEHzlD22rx2n%2flxPrsDq9A4qonSPaCT%2bEq8mzJT5jo5U4
-反馈交流群,https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
 
