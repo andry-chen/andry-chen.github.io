@@ -264,7 +264,7 @@ vjms://58.215.133.185:8500:3502/live/cid=450#,vjms://121.14.222.75:8500:3502/liv
 #EXTINF:-1,华视
 http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 #EXTINF:-1,中视
-vjms://121.14.222.75:8500:3502/live/cid=452#http://pili-live-hdl.qhmywl.com/dsdtv/318e4839a23f9ff15e327de9bcb31687.flv#vjms://23.237.33.155:8500:3502/live/cid=452
+http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1,台视
 vjms://121.14.222.75:8500:3502/live/cid=453#vjms://23.237.33.155:8500:3502/live/cid=453
 #EXTINF:-1,三立都会
@@ -284,7 +284,7 @@ p8p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 #EXTINF:-1,三立综合台
 p8p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
 #EXTINF:-1,中天综合
-vjms://121.14.222.75:8500:3502/live/cid=341#vjms://23.237.33.155:8500:3502/live/cid=341
+http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 #EXTINF:-1,壹综合
 p8p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
 #EXTINF:-1,东森综合
@@ -465,5 +465,3 @@ http://39.135.36.157:18890/000000001000/6460382139625130259/1.m3u8?channel-id=ys
 http://39.135.36.147:18890/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=6516734029835465177&owchid=ystenlive&owsid=1106497909461757416&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7lpjlDkCigeV92%2fGgzDbl17YJnmK%2bNapvzR3hZbQitGUDQ%2f2RfKI5ienTpN%2bdmcS6qzJsR4R%2fYKs50I6pDfn83
 #EXTINF:-1,NewTV炫舞未来
 http://39.135.36.157:18890/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000000515&owchid=ystenlive&owsid=1106497909461764488&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRNwKLc81VtMnWmF2ZM43fEHzlD22rx2n%2flxPrsDq9A4qonSPaCT%2bEq8mzJT5jo5U4
-#EXTINF:-1,反馈交流群
-https://www.bbsok.cf/wp-content/uploads/2019/12/video_2019-12-23_13-03-01.mp4
