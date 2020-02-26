@@ -1,0 +1,313 @@
+#EXTM3U
+#EXTINF:-1 ,新传媒8频道
+https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
+#EXTINF:-1 ,新传媒U频道
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+#EXTINF:-1 ,新加坡okto频道
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+#EXTINF:-1 ,新加坡SURIA频道
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1 ,新加坡VASANTHAM频道
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+#EXTINF:-1 ,新马亞洲新聞
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 ,新马日本朝阳 Suria
+http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1 ,Tv 1
+http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:-1 ,新傳媒8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master01.m3u8
+#EXTINF:-1 ,Suria tv
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1 ,Thai pptv36
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+#EXTINF:-1 ,Okto tv
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+#EXTINF:-1 ,8频道
+http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 ,Astro RIA马来西亚娱乐综合频道
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:-1 ,Astro 华丽
+p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
+#EXTINF:-1 ,Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+#EXTINF:-1 ,Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream01/streamPlaylist.m3u8
+#EXTINF:-1 ,Malay news
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+#EXTINF:-1 ,Malay suria ctv
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master01.m3u8
+#EXTINF:-1 ,新 U频道
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+#EXTINF:-1 ,新传媒8频道
+https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
+#EXTINF:-1 ,新加坡5频道(英语)
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#EXTINF:-1 ,新加坡8频道(普通话)
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 ,新加坡SURIA频道
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1 ,新加坡春天频道vsnthmctv(泰米尔语)
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+#EXTINF:-1 ,星空卫视
+rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1 ,泰国ETV
+http://61.19.244.112:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 ,泰国SUVARNABHUMI
+http://203.146.129.233:1935/live/mp4:suwan/playlist.m3u8
+#EXTINF:-1 ,越南ktv
+http://210.245.20.94/hls/ktv1.m3u8
+#EXTINF:-1 ,15TV Sabinas SD
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:-1 ,ADiTV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 ,ADN 40
+http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
+#EXTINF:-1 ,Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1 ,Al Quran Al Kareem
+http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+#EXTINF:-1 ,Al Sunna
+http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
+#EXTINF:-1 ,ALCARRIA TV [ES][576p]
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 ,Canal 10 Cancún
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv
+#EXTINF:-1 ,CANAL 10 CANCUN [720p]
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 ,Canal 15 Sabinas
+http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:-1 ,CANAL 15 Zacatecas [1080p]
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 ,Canal Judicial
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#EXTINF:-1 ,Canal Mundo+
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 ,Canal Once (Opt-1)
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 ,CH8
+http://live.pjmcdn.info/live/CH8.stream/playlist.m3u8
+#EXTINF:-1 ,Channel 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 ,Channel 8
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+#EXTINF:-1 ,CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 ,CNEX
+http://61.58.60.230:9319/live/257.m3u8
+#EXTINF:-1 ,CNN
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 ,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 ,CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 ,CTV Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 ,DaAi2
+http://61.58.60.230:9319/live/191.m3u8
+#EXTINF:-1 ,Dangdutz
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:-1 ,DDTV
+http://203.156.63.20:1935/live/ddtv/playlist.m3u8
+#EXTINF:-1 ,Dhamma
+https://media.maxindo.net.id/dhamma/dhamma.m3u8
+#EXTINF:-1 ,DISNEY CHANNEL
+P2p://51.79.41.138:18912/5bf4f3d5000278d633bffe6667e809ba.ts.ts
+#EXTINF:-1 ,Disney Jr Indonesia
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 ,EBS1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,English movie
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,Fox Sports Golf
+http://45.58.62.92:8080
+#EXTINF:-1 ,FRANCE CH7
+https://live-edge-sxb-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8
+#EXTINF:-1 ,GTV
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1 ,Home & Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+#EXTINF:-1 ,Home & Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
+#EXTINF:-1 ,HTV3
+P2p://51.79.41.138:18912/5c09fd92000ee7d685ee0bea73414b7b.ts.ts
+#EXTINF:-1 ,HTV4
+P2p://51.79.41.138:18912/5befb737000e82aa1f4b3853035f4903.ts.ts
+#EXTINF:-1 ,HTV7
+P2p://51.79.41.138:18912/5b8e5fb00002026ba30d4d9f4e3c1f45.ts.ts
+#EXTINF:-1 ,HTVC PHIM
+P2p://51.79.41.138:18912/5c0f8a1c0003fcff9b9b042b38001b1c.ts.ts
+#EXTINF:-1 ,I News
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#EXTINF:-1 ,INDONESIA TRANS TV 1
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 ,Indonesia_rodjatv
+P2p://51.79.41.138:18912/5ce00c77000831551454100d22990e9a.ts.ts
+#EXTINF:-1 ,InsanTV
+http://wz.insantv.net/group/ngrp:insantv_all/chunklist_b1627136.m3u8
+#EXTINF:-1 ,Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
+#EXTINF:-1 ,Jakarta Globe (English)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 ,Jasmin TV(18+)
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 ,Jek TV
+http://122.248.43.138:1935/ch14/myStream/playlist.m3u8
+#EXTINF:-1 ,J'go
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,J'go
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,J'Go FMP
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1 ,JTV Surabaya
+http://202.80.222.175/000001/2/ch00000090990000001731/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 ,Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,====== IASHttpSessionId=OTT2197820181031055152425824 ======
+http://0/0.m3u8
+#EXTINF:-1 ,Kompas TV
+http://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1539577191~exp=9007200794318182~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_0/chunklist.m3u8*~hmac=f6239bcbcc1e843a839f01a4f098470bee2b1cfdb3bfe1e056e0694b54b1e054
+#EXTINF:-1 ,KUKU卡通
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225871/index.m3u8
+#EXTINF:-1 ,MCOT-HD
+http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8
+#EXTINF:-1 ,Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 ,Miami TV-Jenny Live(18+)
+http://23.111.128.190:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
+#EXTINF:-1 ,MNC
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1 ,Mono29
+http://live.pjmcdn.info/live/mono29.stream/playlist.m3u8
+#EXTINF:-1 ,New-TV
+http://live.pjmcdn.info/live/New-TV.stream/playlist.m3u8
+#EXTINF:-1 ,ONE-HD
+http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
+#EXTINF:-1 ,Padang TV
+https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
+#EXTINF:-1 ,Radar TV Lampung
+http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
+#EXTINF:-1 ,Radar TV Tasikmalaya
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
+#EXTINF:-1 ,Radio 51
+http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1 ,RCTI
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1 ,Reformed 21
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+#EXTINF:-1 ,RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 ,SEA TV
+http://203.189.147.211:1935/live/mp4:myStream_720p/playlist.m3u8
+#EXTINF:-1 ,Sinema X
+P2p://51.79.41.138:18912/5c90a36e000e3df293e5ef3a082413ee.ts.ts
+#EXTINF:-1 ,SkyNews
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 ,STAR MOVIES
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Tegar TV
+http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
+#EXTINF:-1 ,Thai Baan
+https://edge1a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w1960436073.m3u8
+#EXTINF:-1 ,Thai nbt
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:-1 ,Thai PBS 3
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 ,Thai PBS(1)
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 ,Thai pptv36
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+#EXTINF:-1 ,Thairath
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 ,Thairath TV
+http://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1 ,Thairath-HD
+http://live.pjmcdn.info/live/Thairath-HD.stream/playlist.m3u8
+#EXTINF:-1 ,The Wicked movie
+http://cloudfront.tubi.video/db5025d8-b711-45fb-b73a-0375da6a4a79/3s34y2k8/stream.m3u8
+#EXTINF:-1 ,TPBS HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 ,True4U
+http://live.pjmcdn.info/live/True4U.stream/playlist.m3u8
+#EXTINF:-1 ,TVKU Semarang
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 ,US-CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 ,Việt News TV
+http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
+#EXTINF:-1 ,VITV
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 ,VNA TV
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-3/vnatv573-3.m3u8
+#EXTINF:-1 ,VNA TV
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
+#EXTINF:-1 ,VNBC
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w189527979_b1228800.m3u8
+#EXTINF:-1 ,VTC1
+P2p://51.79.41.138:18912/5bf54128000ebc6734ee0dca6e8e4749.ts.ts
+#EXTINF:-1 ,VTC3
+P2p://51.79.41.138:18912/5bf5412c000e870834ee1d5b04cd4ece.ts.ts
+#EXTINF:-1 ,VTC4
+P2p://51.79.41.138:18912/5c09fd880002e1b785ede1bd2771400e.ts.ts
+#EXTINF:-1 ,VTC5
+P2p://51.79.41.138:18912/5c09fd8b000b22d285edef9817135410.ts.ts
+#EXTINF:-1 ,VTC6
+P2p://51.79.41.138:18912/5c09fd8f0002043f85edfce6165c24da.ts.ts
+#EXTINF:-1 ,VTC7
+P2p://51.79.41.138:18912/5bf541300005a57434ee2ab9644c6a93.ts.ts
+#EXTINF:-1 ,VTC10 netviet
+P2p://51.79.41.138:18912/5bf4f3b900054db433bf91c1256026f2.ts.ts
+#EXTINF:-1 ,VTC14
+P2p://51.79.41.138:18912/5bf4f3b200070be033bf76e640f64cea.ts.ts
+#EXTINF:-1 ,VTC16
+P2p://51.79.41.138:18912/5bf4f3b5000b9f2233bf83c77c4f0a1e.ts.ts
+#EXTINF:-1 ,VTV
+http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
+#EXTINF:-1 ,VTV2
+P2p://51.79.41.138:18912/5c09fd7d0007783785edb7fe1f5146ff.ts.ts
+#EXTINF:-1 ,VTV3
+P2p://51.79.41.138:18912/5bf4293c000a073130a89ab278da17ec.ts.ts
+#EXTINF:-1 ,VTV5
+P2p://51.79.41.138:18912/5c09fd8100022aa185edc6361ece378f.ts.ts
+#EXTINF:-1 ,VTV6
+P2p://51.79.41.138:18912/5bf429400001b28e30a8a82f4a025b78.ts.ts
+#EXTINF:-1 ,VTV7
+P2p://51.79.41.138:18912/5bf429430008489b30a8b59c5e6b4502.ts.ts
+#EXTINF:-1 ,VTV8
+P2p://51.79.41.138:18912/5c09fd84000ade2c85edd4306b452045.ts.ts
+#EXTINF:-1 ,VTV9
+P2p://51.79.41.138:18912/5bf429470000d1da30a8c348421a2c2c.ts.ts
+#EXTINF:-1 ,VTVcab1
+P2p://51.79.41.138:18912/5c09fd9a0000ea0485ee279006b56813.ts.ts
+#EXTINF:-1 ,VTVcab2-PhimViet
+P2p://51.79.41.138:18912/5c0f8a2b00030ca19b9b3e853bfe70b7.ts.ts
+#EXTINF:-1 ,VTVcab3
+P2p://51.79.41.138:18912/5c09fd9d000c633585ee36367e981901.ts.ts
+#EXTINF:-1 ,VTVcab5-E CHANNEL
+P2p://51.79.41.138:18912/5c0f8a2e000c23c19b9b4c8e546f2dd2.ts.ts
+#EXTINF:-1 ,VTVcab7-D DRAMS
+P2p://51.79.41.138:18912/5c0f8a32000400f39b9b5a1b68495ffa.ts.ts
+#EXTINF:-1 ,VTVcab11
+https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
+#EXTINF:-1 ,VTVcab19
+P2p://51.79.41.138:18912/5bf4f3bc000b939c33bf9f1f534948e2.ts.ts
+#EXTINF:-1 ,VTVcab20
+P2p://51.79.41.138:18912/5bf4f3c00004612a33bfacdb3ead22d6.ts.ts
+#EXTINF:-1 ,Workpoint
+http://live.pjmcdn.info/live/workpoint.stream/playlist.m3u8
+#EXTINF:-1 ,YenBaiTV
+http://vietcago.net/vstv/yenbaitv.m3u8
+#EXTINF:-1 ,印尼ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1 ,印尼ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 ,印尼Berita Satu News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 ,印尼Berita Satu News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 ,印尼Berita Satu News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+#EXTINF:-1 ,印尼BeritaSatu NEWS
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
